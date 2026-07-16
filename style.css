@@ -1,0 +1,103 @@
+<style>
+    .Udemy {
+        text-align: left;
+        display: inline-block;
+    }
+
+    .head {
+        background-color: rgb(167, 86, 167);
+        border-radius: 50px;
+        padding: 10px;
+        text-decoration: none;
+        height: fit-content;
+        width: fit-content;
+    }
+
+    .head:hover {
+        background-color: purple;
+        color: white;
+    }
+
+    .cartimg {
+        height: 20px;
+        width: 20px;
+    }
+
+    .inputClass {
+        border-radius: 10px;
+        width: 300px;
+        height: 30px;
+    }
+
+    .div1 {
+        display: block;
+        height: 50px;
+        width: 100px;
+    }
+
+    .div-1 {
+        display: inline-block;
+        height: 50px;
+        width: 100px;
+        background-color: white;
+    }
+
+    .div2 {
+        display: block;
+        height: 200px;
+        background-color: lightblue;
+    }
+
+    .div3 {
+        display: block;
+        height: 200px;
+        background-color: darkblue;
+    }
+
+    .div4 {
+        display: block;
+        height: 200px;
+        background-color: lightblue;
+    }
+
+    .div5 {
+        display: block;
+        height: 200px;
+        background-color: darkblue;
+    }
+
+    .div6 {
+        display: block;
+        height: 200px;
+        background-color: lightblue;
+    }
+
+    .div7 {
+        display: block;
+        height: 200px;
+        background-color: darkblue;
+    }
+
+    .div8 {
+        display: block;
+        height: 200px;
+        background-color: lightblue;
+    }
+
+    .div9 {
+        display: block;
+        height: 200px;
+        background-color: darkblue;
+    }
+
+    .div10 {
+        display: block;
+        height: 200px;
+        background-color: lightblue;
+    }
+    .div10 {
+        display: block;
+        height: 200px;
+        background-color: blue;
+    }
+</style>
